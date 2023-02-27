@@ -6,7 +6,7 @@
   </p>
   
 <h1 align="center">
-  <img align="center" src="https://i.pinimg.com/564x/73/0e/89/730e89414d4329ef2eec70b3fb679270.jpg" width = 400 height = 400>
+  <img align="center" src="https://docs.google.com/uc?id=1-JdaSCIZ3941nWlYhnR5Ej04r0fZIRMG" weight = 600 height= 500>
 </h1>
 
 > ***NOTA***: Este é um produto experimental de estudo pessoal, portanto não esta totalmento modelado, entretanto busco melhorá-lo em conformidade do tempo!
@@ -27,7 +27,7 @@
 <br>
 
 <p>
-  A biblioteca utilizada neste projeto foi <a href="https://github.com/Spotipy">Spotipy</a> e seus requisitos de uso são:
+  A biblioteca utilizada neste projeto foi <a href="https://github.com/spotipy-dev/spotipy">Spotipy</a> e seus requisitos de uso são:
   
   * ***Client Id***
   * ***Client Secret***
@@ -46,3 +46,65 @@
 
 > ***NOTA***: Outro dado importante é a ***URL de redirecionamento***! Ao acessar as configurações do seu App, adicione <code>https://open.spotify.com/</code> como sua URL de redirecionamento!
 > Esta é a URL que você será redirecionado após permitir o acesso de dados ao ReSpotify!
+
+<br>
+
+<h1 align="center"> ✏ Guia de Uso! ✏ </h1>
+
+> O programa em si é auto-explicativo, entretanto por via de duvidas, segue abaixo um mini-guia!
+
+<br>
+
+<p>
+
+  * Ao executar o arquivo <a href="https://github.com/MRC4str0/ReSpotify/blob/main/ReSpotify.py">ReSpotify.py<a>, será requisitado a URL da playlist (A qual deseja Reordenar):
+  
+</p>
+
+<img align="center" src="https://docs.google.com/uc?id=1_4WFvEJdq352eiwmWhL0A8C9NOCtE-8C" weight = 400 height = 400>
+
+<br>
+
+<p>
+
+  * Caso sejá sua primeira vez executando o arquivo, ele pedirá acesso as informações do seu Spotify. Após aceitar, copie a URL em que você foi redirecionado e cole no terminal!
+  
+</p>
+
+<img align="center" src="https://docs.google.com/uc?id=1uuXAuSNguqpOXsHVCapGmsZbBTo399Hq" weight = 400 height = 400>
+
+> Enquanto isso, é gerado um arquivo de cache, que vai salvar suas permissões, para que você não tenha o trabalho de permirtir toda vez!
+
+<br>
+
+<p>
+
+  * Logo após, caso a URL for valida, ele apresentará as informações da sua Playlist:
+  
+</p>
+
+<img align="center" src="https://docs.google.com/uc?id=160F78dHVvVK1M8nKxfU8o34kECqP94gr" weight = 400 height = 400>
+
+> Confira se a playlist selecionada é a desejada! Os passos a seguir são ***IRREVERSSIVEIS!***
+
+<br>
+
+<p>
+
+  * Depois de confirmado a playlist, escolha uma das opções de rearranjo:
+  
+</p>
+
+<img align="center" src="https://docs.google.com/uc?id=10ulZpR7y22wZq-kLcT0snlpY1MaDoKd2" weight = 400 height = 400>
+
+> Escolha com certeza! Como dito anteriormente, são mudanças ***IRREVERSSIVEIS!***
+
+<br>
+
+<p>
+
+  * Feito sua escolha, basta aguardar que as mudanças estão sendo feitas!
+
+</p>
+
+<img align="center" src="https://docs.google.com/uc?id=1-JdaSCIZ3941nWlYhnR5Ej04r0fZIRMG" weight = 400 height= 400>
