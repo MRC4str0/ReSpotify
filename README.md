@@ -18,7 +18,6 @@
   Os requisitos do projeto podem ser encontrados em <a href="https://github.com/MRC4str0/ReSpotify/blob/main/requisitos.txt">requisitos.txt</a>
 
   ```text
-  pyinstaller==5.7.0
   spotipy==2.22.1
   termcolor==2.2.0
   ```
@@ -108,3 +107,42 @@
 </p>
 
 <img align="center" src="https://docs.google.com/uc?id=1-JdaSCIZ3941nWlYhnR5Ej04r0fZIRMG" weight = 400 height= 400>
+
+<br>
+
+<h1 align="center">🏁 FIM! 🏁</h1>
+
+<p>
+  Enfim chegamos ao fim do projeto... Sobrou agora alguns pontos que devo tirar nota!
+</p>
+
+<br>
+
+<h3 align="center"> Melhorias </h3>
+  
+<p>  
+  Este é um projeto de estudo! Fiz no intuito maior de adiciona-lo ao meu repertório e aprimora-lo com tempo e estudo!
+  Caso tenha alguma ideia de implementação ou queira reportar algum problema, porfavor não exite!
+</p>
+
+<div id="badges" align="center">
+
+  <a href="https://github.com/MRC4str0">
+    <img src="https://avatars.githubusercontent.com/u/68367411?v=4" weight = 170 height = 170>
+  </a>
+
+  <br>
+
+  <a href="https://www.instagram.com/mrcastr.0/?next=%2F">
+    <img src="https://img.shields.io/static/v1?label=Instagram&message=@mrcastr.0&color=grey&style=for-the-badge&logo=Instagram"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/felipe-de-castro-pereira-29118225b">
+    <img src="https://img.shields.io/static/v1?label=Linkedin&message=@Felipe%20de%20Castro&color=grey&style=for-the-badge&logo=Linkedin"/>
+  </a>
+  
+  <a href="https://wa.me/qr/E3VI3L2U5RWUI1">
+    <img src="https://img.shields.io/static/v1?label=WhatsApp&message=@Felipe%20de%20Castro&color=grey&style=for-the-badge&logo=WhatsApp"/>
+  </a>
+  
+</div>
